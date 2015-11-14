@@ -1,0 +1,17 @@
+{
+  "name": "ocr-project",
+  "version": "1.0.0",
+  "description": "Trying to use ocr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ocr"
+  ],
+  "author": "Tomer Brosh",
+  "license": "ISC",
+  "dependencies": {
+    "node-tesseract": "^0.2.7"
+  }
+}
