@@ -1,2 +1,2 @@
 var Magic = require("../index.js");
-console.log(Magic.MagicText("test.png"));
+console.log(Magic.MagicText("test/test.png"));
