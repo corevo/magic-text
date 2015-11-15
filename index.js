@@ -9,7 +9,7 @@ exports.MagicText = function (path) {
     });
 
 
-    tess.process(__dirname + "\\" + path, function (err, text) {
+    tess.process(__dirname + "/" + path, function (err, text) {
         if (err) {
             console.log(err);
         } else {
