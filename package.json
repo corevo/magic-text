@@ -13,5 +13,16 @@
   "license": "ISC",
   "dependencies": {
     "node-tesseract": "^0.2.7"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corevo/magic-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/corevo/magic-text/issues"
+  },
+  "homepage": "https://github.com/corevo/magic-text#readme"
 }
