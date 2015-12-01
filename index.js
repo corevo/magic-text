@@ -14,6 +14,8 @@ function getText(path, lang , cb) {
 		if(error != null) {
 			console.log("There was an error: " + error)
 		}
+		console.log(stdout);
+		console.log(stderr);
     });		
 	}
 }
