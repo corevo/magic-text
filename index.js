@@ -19,5 +19,5 @@ function getText(path, lang , cb) {
     // });		
 	// }
 }
-
+}
 module.exports.getText = getText;
