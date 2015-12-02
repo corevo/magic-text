@@ -18,6 +18,6 @@ function getText(path, lang , cb) {
 		// console.log(stderr);
     // });		
 	// }
-}
+});
 }
 module.exports.getText = getText;
