@@ -1,6 +1,6 @@
 {
   "name": "ocr-project",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Trying to use ocr",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,6 @@
   "author": "Tomer Brosh",
   "license": "ISC",
   "dependencies": {
-    "node-tesseract": "^0.2.7"
   },
   "directories": {
     "test": "test"
